@@ -1,4 +1,4 @@
-# kaggle-CommonLit-EES (59th place)
+# kaggle-CommonLit-EES (60th place)
 ### CommonLit - Evaluate Student Summaries 
 The goal of this competition is to assess the quality of summaries written by students in grades 3-12. </br>The quality scores consists of 2 types of score (content score and wording score).  
 You can find more info about the competition and dataset on this link.  
